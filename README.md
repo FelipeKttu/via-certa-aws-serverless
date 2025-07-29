@@ -8,7 +8,6 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/Plataforma-AWS-orange?logo=amazon-aws" alt="Plataforma AWS">
-    <img src="https://img.shields.io/badge/Arquitetura-100%_Serverless-yellow" alt="Arquitetura Serverless">
     <img src="https://img.shields.io/badge/Status_do_Projeto-Conceitual-blue" alt="Status do Projeto">
     <img src="https://img.shields.io/badge/AI_Powered-SageMaker-green?logo=amazon-sagemaker" alt="AI Powered">
   </p>
