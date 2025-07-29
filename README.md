@@ -116,7 +116,7 @@ Este projeto é a materialização de uma jornada de aprendizado intenso e colab
     * Carlos Alberto
     * Alexandre Paulino
     * Gil Maik de Jesus
-    * Jõao Victor
+    * João Victor
     * José Winny
     * Mikael Kobama
     * Rodolfo Bianchi
